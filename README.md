@@ -2,7 +2,7 @@
 
 A lightweight Windows tool to control mouse drag movement with customizable speed.
 
-![screenshot](screenshot.png)
+![screenshot](Untitled.png)
 
 ## ✨ Features
 - **Auto active on startup** – the tool is ON as soon as you open it.
